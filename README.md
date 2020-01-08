@@ -9,7 +9,7 @@ Purpose: I have written the following files in this repo for any prospective emp
 'Coding Example - ML Models.r'  
 Uses the `iris` built-in dataset in R to run a few machine learning predictive models of Species based on other plant features using a few different machine learning models. Also demonstrates use of cross-validation and ggplot2 graphical display.  
 
-`Coding Example - ML in Python.ipynb/.py/.html`  
+'Coding Example - ML in Python.ipynb/.py/.html'   
 Similar to the above example but worked through instead using Python with just a random forest model. Alternate file formats are provided for ease-of-use options: python script, jupyter notebook, or html output.  
 
 'Coding Example - Database, SQL.r'  
