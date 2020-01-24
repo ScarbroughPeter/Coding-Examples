@@ -12,7 +12,7 @@ Uses the `iris` built-in dataset in R to run a few machine learning predictive m
 'Coding Example - ML in Python.ipynb/.py/.html'   
 Similar to the above example but worked through instead using Python with just a random forest model. Alternate file formats are provided for ease-of-use options: python script, jupyter notebook, or html output.  
 
-`Coding Example - Linear Reg, Lasso, Pipelines.ipynb`
+'Coding Example - Linear Reg, Lasso, Pipelines.ipynb'
 Example of linear regression in Python using Boston housing data. Using lasso and ridge regression and the construction of a pipeline to automate standardization, hyperparameter tuning, and model selection between the candidate models.
 
 'Coding Example - Database, SQL.r'  
