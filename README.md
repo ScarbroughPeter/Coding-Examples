@@ -13,7 +13,7 @@ Uses the `iris` built-in dataset in R to run a few machine learning predictive m
 Similar to the above example but worked through instead using Python with just a random forest model. Alternate file formats are provided for ease-of-use options: python script, jupyter notebook, or html output.  
 
 'Coding Example - Linear Reg, Lasso, Pipelines.ipynb'  
-Example of linear regression in Python using Boston housing data. Using lasso and ridge regression and the construction of a pipeline to automate standardization, hyperparameter tuning, and model selection between the candidate models.
+Example of linear regression in Python (jupyter notebook) using Boston housing data. Using lasso and ridge regression and the construction of a pipeline to automate standardization, hyperparameter tuning, and model selection between the candidate models.
 
 'Coding Example - Database, SQL.r'  
 Uses the 'iris' built-in dataset in R to build a complementary dataset and these two datasets are used to build a database use the RSQLite backend. The database is then queries using a few examples to showcase some inner join and aggregating functions using both dplyr and SQL code syntax to achieve the same results.  
