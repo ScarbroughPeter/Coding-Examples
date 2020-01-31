@@ -15,8 +15,8 @@ Similar to the above example but worked through instead using Python with just a
 'Coding Example - Linear Reg, Lasso, Pipelines.ipynb'  
 Example of linear regression in Python (jupyter notebook) using Boston housing data. Using lasso and ridge regression and the construction of a pipeline to automate standardization, hyperparameter tuning, and model selection between the candidate models.
 
-'Coding Example - Pipeline data cleaning, modeling.ipynb'  
-Code example inspired by the data and examples from Chapter 2 of 'Hands-On Machine Learning" by Aurelien Geron. Code varies in treatment of exploratory data analysis in pipeline construction, model selection, and model evaluation. A few bugs from the Chapter 2 code examples are also fixed. 
+'Coding Example - Blended Ensemble Modeling.ipynb'  
+Code example inspired by the data and examples from Chapter 2 of 'Hands-On Machine Learning" by Aurelien Geron. This exercise performs additional checks, data cleaning, and pipeline utilization. The exercise uses ensemble modeling, model blending, and model selection strategies to reason the selection of an optimal model. A final data prediction pipeline is then developed to process future housing data.
 
 'Coding Example - Database, SQL.r'  
 Uses the 'iris' built-in dataset in R to build a complementary dataset and these two datasets are used to build a database use the RSQLite backend. The database is then queries using a few examples to showcase some inner join and aggregating functions using both dplyr and SQL code syntax to achieve the same results.  
